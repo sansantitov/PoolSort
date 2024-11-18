@@ -11,6 +11,7 @@ public:
     void make_multithread(bool);
 private:
     bool multithread;
+    //const int diffPiLeft = 100000;
     const int diffPiLeft = 10000;
 
 };
